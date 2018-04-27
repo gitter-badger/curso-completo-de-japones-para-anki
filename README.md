@@ -84,7 +84,7 @@ La principal razón por la que he publicado este paquete de mazos es para compar
 - #### Indicando correcciones y aportando sugerencias
 Sin dudas, esta es la opción más sencilla de todas ya que no requiere ningún conocimiento técnico. Simplemente contáctame por [Gitter](https://gitter.im/curso-completo-de-japones-para-anki/Lobby?utm_source=share-link&utm_medium=link&utm_campaign=share-link) siendo lo más detallado y concreto posible. Si quieres reportar un error, incluye todos los datos que puedas sobre la ubicación del mismo.
 - #### Uniéndote al proyecto en Github
-Si manejas git o estás dispuesto a aprenderlo. Bienvenido a bordo!
+Si manejas git o estás dispuesto a aprenderlo, puedes ayudar creando nuevas tarjetas o haciendo correcciones. En el caso de que nunca hayas colaborado en un proyecto de código abierto, asegúrate de leer esta [guía](https://opensource.guide/es/how-to-contribute/) primero.
 - #### Invitándome una taza de café
 
 ### Cómo funciona

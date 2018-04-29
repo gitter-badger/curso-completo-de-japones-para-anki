@@ -24,7 +24,7 @@ Debido a que aún soy estudiante, preparándome para tomar el N1, no puedo garan
 ### Descarga
 
 - [Versión estable](../../raw/master/curso-completo-de-japones-para-anki.apkg) - Contiene menor cantidad de tarjetas pero éstas han sido revisadas y corregidas por lo que son menos proclives a tener errores y sufrir cambios. Sólo es actualizado cuando el contenido a agregarse ha sido revisado en detalle. **Recomendado para aquellos que no tienen apuro**.
-- [Versión actualizada](../../desarrollo/curso-completo-de-japones-para-anki.apkg) - Posee muchas más tarjetas ya que se actualiza frecuentemente, pero precísamente por eso, tiene mayores probabilidades de tener errores y por tanto, a sufrir correcciones y cambios. **Recomendado para aquellos que quieran aprender rápido y para los que deseen colaborar con el proyecto**.
+- [Versión actualizada](../../raw/desarrollo/curso-completo-de-japones-para-anki.apkg) - Posee muchas más tarjetas ya que se actualiza frecuentemente, pero precísamente por eso, tiene mayores probabilidades de tener errores y por tanto, a sufrir correcciones y cambios. **Recomendado para aquellos que quieran aprender rápido y para los que deseen colaborar con el proyecto**.
 
 Selecciona la versión que prefieras y se descargará el archivo **curso_completo_de_japones.apkg**. Los archivos de extensión (aquello que va después del punto) **apkg** son paquetes de *mazos* o *colección de mazos* Anki (Anki Package). Si quieres saber la diferencia entre ambos, ve [aquí][exportar paquete Anki], pero por lo pronto, todo lo que debes saber es que este tipo de archivos son los que puedes importar a tu instalación de Anki.
 

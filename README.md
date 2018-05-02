@@ -2,6 +2,25 @@
 
 Esta es una colección de mazos para Anki que he venido desarrollando para ayudarme en mi estudio del idioma japonés hecho completamente en español y que quisiera compartir con el resto de los estudiantes hispanohablantes.
 
+## Índice
+- [Sobre el proyecto](#sobre-el-proyecto)
+- [Bibliografía](#bibliografía)
+- [Descarga](#descarga)
+- [Actualizar](#actualizar)
+- [¿No hay una mejor forma de actualizar?](#no-hay-una-mejor-forma-de-actualizar)
+- [Cómo usar](#cómo-usar)
+- [¿Quiéres ayudar?](#quieres-ayudar)
+- [Cómo funciona](#como-funciona)
+ - [Dependencias](#dependiencias)
+ - [Tipos de nota](#tipos-de-nota)
+ - [Campoos](#campos)
+ - [Audio](#audio)
+ - [Etiquetas](#etiquetas)
+- [Autor](#autor)
+- [Licencia](#licencia)
+
+## Sobre el proyecto
+
 Si bien existe un montón de material de estudio ya sean libros de texto o información en internet, la mayoría se encuentra en inglés, lo que no ayuda a muchos estudiantes que aún no dominan dicho idioma lo suficiente. Incluso aún sabiendo inglés, tratar de aprender un idioma a través de otra lengua que no sea la nuestra, le agrega una carga innecesaria a nuestro aprendizaje y corramos además el riesgo de arrastrar errores conceptuales que se producen al intentar explicar las diferencias entre el idioma que estamos tratando de aprender y el idioma que hace de nexo, cuando quizás entre el idioma objetivo y nuestro idioma nativo no exista o no haya tanta diferencia.
 
 Lamentablemente, a pesar de la creciente popularidad que ha visto el idioma japonés entre las personas de habla hispana, la cantidad de material disponible en este idioma es aún escaso, y generalmente sólo abarca hasta un nivel intermedio. Raramente se puede encontrar algún material avanzado por los rincones de internet y la situación es aún peor en cuanto a libros de texto.
@@ -88,7 +107,7 @@ La principal razón por la que he publicado este paquete de mazos es para compar
 Sin dudas, esta es la opción más sencilla de todas ya que no requiere ningún conocimiento técnico. Simplemente contáctame por [Gitter] siendo lo más detallado y concreto posible. Si quieres reportar un error, incluye todos los datos que puedas sobre la ubicación del mismo.
 - #### Uniéndote al proyecto en Github
 Si manejas [Git] o estás dispuesto a aprenderlo, puedes ayudar creando nuevas tarjetas o haciendo correcciones. En el caso de que nunca hayas colaborado en un proyecto de código abierto, asegúrate de leer esta [guía][cómo contribuir] primero.
-- #### Invitándome una taza de café
+- #### ¡Apoyandome en **[Patreon]**!
 
 ### Cómo funciona
 Si eres un usuario avanzado de Anki y estás pensando en colaborar o hacer tus propias modificaciones, estas son las cosas que probablemente querrás saber acerca de los mazos.
@@ -218,3 +237,4 @@ Este paquete de mazos en sí esta licenciado bajo la licencia [Creative Commons 
 [Japanese Support]: https://ankiweb.net/shared/info/3918629684
 [AwesomeTTS]: https://ankiatts.appspot.com/
 [etiquetas en Anki]: https://apps.ankiweb.net/docs/manual.es.html#a%C3%B1adiendo-etiquetas
+[Patreon]: https://www.patreon.com/cursocompletodejaponesparaanki

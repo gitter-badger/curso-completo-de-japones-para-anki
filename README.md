@@ -2,7 +2,7 @@
 
 Esta es una colección de mazos para Anki que he venido desarrollando para ayudarme en mi estudio del idioma japonés hecho completamente en español y que quisiera compartir con el resto de los estudiantes hispanohablantes.
 
-## Índice
+### Índice
 - [Sobre el proyecto](#sobre-el-proyecto)
 - [Bibliografía](#bibliografía)
 - [Descarga](#descarga)
@@ -11,15 +11,15 @@ Esta es una colección de mazos para Anki que he venido desarrollando para ayuda
 - [Cómo usar](#cómo-usar)
 - [¿Quiéres ayudar?](#quieres-ayudar)
 - [Cómo funciona](#como-funciona)
- - [Dependencias](#dependiencias)
- - [Tipos de nota](#tipos-de-nota)
- - [Campoos](#campos)
- - [Audio](#audio)
- - [Etiquetas](#etiquetas)
+  - [Dependencias](#dependiencias)
+  - [Tipos de nota](#tipos-de-nota)
+  - [Campoos](#campos)
+  - [Audio](#audio)
+  - [Etiquetas](#etiquetas)
 - [Autor](#autor)
 - [Licencia](#licencia)
 
-## Sobre el proyecto
+### Sobre el proyecto
 
 Si bien existe un montón de material de estudio ya sean libros de texto o información en internet, la mayoría se encuentra en inglés, lo que no ayuda a muchos estudiantes que aún no dominan dicho idioma lo suficiente. Incluso aún sabiendo inglés, tratar de aprender un idioma a través de otra lengua que no sea la nuestra, le agrega una carga innecesaria a nuestro aprendizaje y corramos además el riesgo de arrastrar errores conceptuales que se producen al intentar explicar las diferencias entre el idioma que estamos tratando de aprender y el idioma que hace de nexo, cuando quizás entre el idioma objetivo y nuestro idioma nativo no exista o no haya tanta diferencia.
 

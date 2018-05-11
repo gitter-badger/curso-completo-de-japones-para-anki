@@ -1,0 +1,40 @@
+.keyword {
+	font-size: 25px;
+}
+
+.card {
+	color: #303c41;
+	font-family: Liberation Sans;
+	font-size: 15px;
+	text-align: center;
+	background-color: #fff;
+}
+
+.typeGood {
+	background-color: transparent;
+}
+
+.typeBad {
+	background-color: transparent;
+	color: red;
+}
+
+.typeMissed {
+	background-color: transparent;
+}
+
+#typeans {
+	color: #303c41;
+	font-family: Liberation Sans;
+	font-size: 25px;
+	background-color: #0000;
+	border-style: solid;
+	border-color: transparent transparent #303c41 transparent;
+	border: 0 0 3px 0;
+	text-align: center;
+}
+
+#typeans:focus {
+	border-color: transparent transparent #ffcd1f transparent;
+	outline: none;
+}

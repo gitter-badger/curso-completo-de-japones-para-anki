@@ -7,7 +7,6 @@ La siguiente es una guía sobre como contribuir de forma que todos estemos coord
 ## Índice
 - [¿Cómo contribuir?](#cómo-contribuir)
 - [¿Qué contribuir y que no contribuir?](#qué-contribuir-y-qué-no-contribuir)
-- [Formato](#formato)
 - [Reglas básicas](#reglas-básicas)
 - [Tu primera contribución](#tu-primera-contribución)
 - [Antes de comenzar](#antes-de-comenzar)
@@ -34,9 +33,14 @@ En general, no se admite ningún material que vaya en contra de nuestros [Códig
 - **Material de terceros cuya licencia no sea libre** - En lo posible, debe estar bajo una licencia [CC BY-SA 4.0].
 - **No debe ser ofensivo o ilegal** - No se aceptará material que contenga lenguaje obseno, racismo, discriminación, sea ofensivo o insite a la violencia ni mucho menos que sea ilegal.
 
-## Formato
+## Reglas básicas
 
-Asegúrate de leer sobre [cómo funciona] el paquete de mazos y sigue el formato correspondiente al [tipo de nota].
+- Ante todo, respetar el [Código de Conducta], el cual no es más que un conjunto de reglas básicas que nos ayudan un mantener un mínimo de etiqueta en internet, de la misma forma que mantenemos en persona.
+- Fíjate si lo que quieres agregar ya existe.
+- Crea un "issue" para consultar y discutir sobre cambios o aportes grandes que quieras hacer. Si has encontrado un error, dirígete a la sección sobre [cómo reportar un error].
+- Indica las fuentes que apoyan lo que tu crees que es correcto. Por todo lo bueno que tiene internet, uno de sus mayores riesgos para todo estudiante es la impresisión de algunos de los materiales que se pueden encontrar, por lo que es mejor si lo corroboramos entre todos.
+- Asegúrate que tu aporte cumpla con todas las reglas de [esta lista].
+-
 
 
 

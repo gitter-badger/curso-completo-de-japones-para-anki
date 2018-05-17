@@ -1,6 +1,6 @@
 # Contribuir al Curso Completo de Japonés para Anki
 
-¡Muchísimas gracias por decidir contribuir al proyecto! Todos aquellos que hemos estado estudiando este idioma por algún tiempo sabemos lo díficil que puede llegar a ser encontrar buen material en español, especialmente para los niveles más avanzados. Este proyecto apunta a solucionar dicho problema, lo cual no es tarea fácil, pero si trabajamos juntos estaremos mcuho más cerca de alcanzarlo.
+¡Muchísimas gracias por decidir contribuir al proyecto! Todos aquellos que hemos estado estudiando este idioma por algún tiempo sabemos lo díficil que puede llegar a ser encontrar buen material en español, especialmente para los niveles más avanzados. Este proyecto apunta a solucionar dicho problema, lo cual no es tarea fácil, pero si trabajamos juntos estaremos mucho más cerca de alcanzarlo.
 
 La siguiente es una guía sobre como contribuir de forma que todos estemos coordinados y organizados desde un principio. Seguirla nos ahorrará tiempo y posibles malentendidos, por lo que es necesario que todo aquél que este pensando en colaborar la lea detenidamente.
 
@@ -44,13 +44,23 @@ En general, no se admite ningún material que vaya en contra de nuestros [Códig
 
 ## Tu primera contribución
 
-¿No estás seguro por dónde empezar? Si no tienes experiencia con Anki y/o colaborando en un proyecto de código abierto, lee primero el [manual de Anki] y luego sobre [cómo contribuir a un proyecto de Código Abierto]. Luego, cuando te sientas listo, puedes empezar creando tarjetas de oraciones ya que son las más fáciles por tener menos campos.
+¿No estás seguro por dónde empezar? Si no tienes experiencia con Anki y/o colaborando en un proyecto de código abierto, haz lo siguiente (de lo contrario, puedes saltear el paso 1):
+
+1. Lee primero el [manual de Anki] y luego sobre [cómo contribuir a un proyecto de Código Abierto].
+2. Cuando te sientas listo, crea un nuevo **issue** y propone tu idea o cambios. Por ejemplo, si quieres simplemente agregar tarjetas a un mazo ya existente, titula el **issue** como "Agrega tarjetas de oraciones para...". De lo contrario, trata de que el título sea claro y conciso.
+3. Si tu **issue** es **aceptado**, puedes comenzar a trabajar haciendo un **fork** al proyecto. Haz clic en el botón de **Fork** en la parte superior derecha de la página del repositorio.
+4. Teniendo una copia del proyecto en tu cuenta de Github, haz un **clon** de éste a tu computadora para trabajar de forma **local**. Para ello, primero haz clic en el botón de **Clon or download** en la página de tu **fork** y copia el URL que aparece debajo de **Cone with HTTPS**. Luego abre una terminal en tu computadora, navega a la carpeta en donde quieras alojar el proyecto (por ejemplo, "proyectos") y escribe lo siguiente:
+
+```
+git clone <pega el URL aquí>
+```
 
 ## Antes de comenzar
 
 
 
 [cómo contribuir a un proyecto de Código Abierto]: https://opensource.guide/es/how-to-contribute/
+[manual de Anki]: https://apps.ankiweb.net/docs/manual.es.html
 [Creative Commons]: https://creativecommons.org/
 [Gitter]: https://gitter.im/curso-completo-de-japones-para-anki
 [CC BY-SA 4.0]: https://creativecommons.org/licenses/by/4.0/deed.es_ES

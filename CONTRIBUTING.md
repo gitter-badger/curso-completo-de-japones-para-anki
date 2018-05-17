@@ -9,7 +9,7 @@ La siguiente es una guía sobre como contribuir de forma que todos estemos coord
 - [¿Qué contribuir y que no contribuir?](#qué-contribuir-y-qué-no-contribuir)
 - [Reglas básicas](#reglas-básicas)
 - [Tu primera contribución](#tu-primera-contribución)
-- [Antes de comenzar](#antes-de-comenzar)
+- [Guía de inicio](#guía-de-incio)
 - [Cómo reportar un error](#cómo-reportar-un-errror)
 - [Cómo hacer una sugerencia](#cómo-hacer-una-sugerencia)
 - [Cómo se procesa una contribución](#cómo-se-procesa-una-contribución)
@@ -41,26 +41,44 @@ En general, no se admite ningún material que vaya en contra de nuestros [Códig
 - Antes de ponerte a trabajar, **crea un "issue" para consultar y discutir sobre cambios o aportes grandes que quieras hacer**. Si has encontrado un error, dirígete a la sección sobre [cómo reportar un error].
 - **Proveé vínculos** a las fuentes que sustenten el material que quieras agregar o apoyen tu posición en caso de que hayas encontrado algún error. Esto no sólo nos ayuda a verificar la veracidad del contenido sino que también es una buena forma de recopilar material útil.
 - Asegúrate que tu aporte **respete el formato ya establecido** (fuente, tamaño y color de texto, etc.). Es importante mantener la unidad visual entre todos los mazos del paquete. Si quieres proponer uno nuevo, crea un nuevo issue.
+- Respeta la [nomenclatura de branches](#nomenclatura-de-branches).
 
 ## Tu primera contribución
 
-¿No estás seguro por dónde empezar? Si no tienes experiencia con Anki y/o colaborando en un proyecto de código abierto, haz lo siguiente (de lo contrario, puedes saltear el paso 1):
+¿No estás seguro por dónde empezar? Si no tienes experiencia con Anki y jamás haz colaborando en un proyecto de código abierto, aquí tienes una lista de sugerencias:
 
-1. Lee primero el [manual de Anki] y luego sobre [cómo contribuir a un proyecto de Código Abierto].
-2. Cuando te sientas listo, crea un nuevo **issue** y propone tu idea o cambios. Por ejemplo, si quieres simplemente agregar tarjetas a un mazo ya existente, titula el **issue** como "Agrega tarjetas de oraciones para...". De lo contrario, trata de que el título sea claro y conciso.
-3. Si tu **issue** es **aceptado**, puedes comenzar a trabajar haciendo un **fork** al proyecto. Haz clic en el botón de **Fork** en la parte superior derecha de la página del repositorio.
-4. Teniendo una copia del proyecto en tu cuenta de Github, haz un **clon** de éste a tu computadora para trabajar de forma **local**. Para ello, primero haz clic en el botón de **Clon or download** en la página de tu **fork** y copia el URL que aparece debajo de **Cone with HTTPS**. Luego abre una terminal en tu computadora, navega a la carpeta en donde quieras alojar el proyecto (por ejemplo, "proyectos") y escribe lo siguiente:
+- Lee el [Manual de Anki].
+- Lee sobre [cómo contribuir a un proyecto de Código Abierto](#cómo-contribuir-a-un-proyecto-de-código-abierto).
+- [Aprende Git en 15 minutos]
 
-```
-git clone <pega el URL aquí>
-```
+## Guía de inicio
 
-## Antes de comenzar
+1. Si es tu primera vez, asegúrate de leer sobre [tu primera contribución](#tu-primera-contribución).
+2. Entra en tu cuenta de [Github] si aún no lo haz hecho.
+3. Cuando te sientas listo, crea un nuevo **issue** y propone tu idea o cambio. Por ejemplo, si quieres simplemente agregar tarjetas a un mazo ya existente, titula el **issue** como "Agrega tarjetas de oraciones para...". En cualquier caso, trata de que el título sea claro y conciso.
+4. Si tu **issue** es **aceptado**, puedes comenzar a trabajar haciendo un **fork** al proyecto. Guarda nota del **número de issue** ya que te lo pediremos más tarde y luego sí haz clic en el botón de **Fork** en la parte superior derecha de la página del repositorio.
+5. Teniendo una copia del proyecto en tu cuenta de Github, haz un **clon** de éste a tu computadora para trabajar de forma **local**. Para ello, primero haz clic en el botón de **Clon or download** en la página de tu **fork** y copia el URL que aparece debajo de **Cone with HTTPS**. Luego abre una terminal en tu computadora, navega a la carpeta en donde quieras alojar el proyecto (por ejemplo, "proyectos") y escribe lo siguiente: `git clone <pega el URL aquí>`.
+6. Git automáticamente añade el proyecto en tu cuenta al que haz clonado como tu repositorio **remoto** y le llama **origin**, de forma que cada vez quieras actualizar dicho repositorio, sólo tienes que escribir: `git push origin <nombre del branch>`. Sin embargo, también querrás agregar tus cambios al proyecto original (del que haz hecho un **fork**) una vez que estés listo. Para agregarlo entonces, escribe en la terminal: `git remote add upstream <nuestro repositiorio>`. Llamamos **upstream** a nuestro repositorio del que haz hecho el **fork** por convención, pero puedes llamarlo como tu quieras ya que este nombre no se reflejará en **nuestro repositorio**.
+7. Aunque técnicamente podrías empezar a trabajar, cualquier cambio que hagas aquí se aplicaría a la **rama** o **branch** principal de **tu resposiotiro**, llamada **master**, lo que no es aconsejable. Por lo tanto, crea un nuevo **branch** sobre el cual trabajar escribiendo en tu terminal: `git checkout -b <nombre del branch>`. El nombre que le des a este **branch** sí se reflejará cuando se agregue a **nuestro repositorio**, por lo que asegúrate bien de respetar nuestra nomenclatura.
+8. Trabaja sobre tus cambios.
+9. Agrega dichos cambios junto a tu nuevo **branch** a **tu repositorio** en **Github** escribiendo `git push origin <nombre de tu branch>` en la terminal.
+10. Ve a **tu repositorio** en **Github** y verás que éste automáticamente te ofrece hacer un **pull request**, lo cual no es otra cosa que avisarnos que quieres aportar tus cambios a nuestro proyecto. Junto al **pull request** pon el **número de issue** para que podamos asociarlo con el **issue** que habías abierto.
+11. Si tus cambios son **aprobados**, ¡felicitaciones! Haz hecho tu primer aporte al proyecto. De lo contrario, sigue las instrucciones que te demos para hacer las correcciones que correspondan.
+12. Una vez que **tus cambios** hayan sido aceptados, estos serán fusionados con un **merge** en nuestra **rama** de **desarrollo** y tal vez incluso en la **master**, por lo que tendrás que actualizar todas tus **branches**, tanto las de tu repositorio **local** como las de tu **origin** (el que tienes en tu cuenta). Para ello, abre nuevamente la terminal y escribe: `git pull upstream master` para actualizar tu **master** con el nuestro y luego `git pull upstream desarrollo` para actualizar tu **branch** de **desarrollo**.
+13. En este punto, ya no necesitas más el **branch** que habías creado porque tus cambios quedaron registrados cuando hicimos el **merge**. Así que puedes borrarlo escribiendo: `git branch -d <nombre de tu branch>`.
+14. Ahora actualiza también **tu repositorio en Github** con: `git pull origin master` y `git pull origin desarrollo`.
+15. Borra **tu viejo branch** de tu **repositorio en Github** también: `git push --delete origin <nombre de tu branch>`.
+
+Listo, con esto has aprendido a hacer tus propias contribuciones al proyecto. Seguramente parezca demasiado para digerir al principio, pero con la práctica, se vuelve algo así como una segunda naturaleza. Ante todo recuerda siempre de mantener tus repositorios actualizados con: `git pull upstream master`, `git pull upstream desarrollo` para actualizar **tu repositorio local** y luego `gi push origin master` y `git push origin desarrollo` para actualizar **tu respositorio en Github**.
+
+
 
 
 
 [cómo contribuir a un proyecto de Código Abierto]: https://opensource.guide/es/how-to-contribute/
 [manual de Anki]: https://apps.ankiweb.net/docs/manual.es.html
+[Aprende Git en 15 minutos]: https://try.github.io/levels/1/challenges/1
+[Github]: https://github.com/
 [Creative Commons]: https://creativecommons.org/
 [Gitter]: https://gitter.im/curso-completo-de-japones-para-anki
 [CC BY-SA 4.0]: https://creativecommons.org/licenses/by/4.0/deed.es_ES

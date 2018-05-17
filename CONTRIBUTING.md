@@ -35,14 +35,18 @@ En general, no se admite ningún material que vaya en contra de nuestros [Códig
 
 ## Reglas básicas
 
-- Ante todo, respetar el [Código de Conducta], el cual no es más que un conjunto de reglas básicas que nos ayudan un mantener un mínimo de etiqueta en internet, de la misma forma que mantenemos en persona.
-- Fíjate si lo que quieres agregar ya existe.
-- Crea un "issue" para consultar y discutir sobre cambios o aportes grandes que quieras hacer. Si has encontrado un error, dirígete a la sección sobre [cómo reportar un error].
-- Indica las fuentes que apoyan lo que tu crees que es correcto. Por todo lo bueno que tiene internet, uno de sus mayores riesgos para todo estudiante es la impresisión de algunos de los materiales que se pueden encontrar, por lo que es mejor si lo corroboramos entre todos.
-- Asegúrate que tu aporte cumpla con todas las reglas de [esta lista].
--
+- Ante todo, **respetar el [Código de Conducta]**, el cual no es más que un conjunto de reglas básicas que nos ayudan un mantener un mínimo de etiqueta en internet, de la misma forma que mantenemos en persona.
+- **No utilices el issue tracker para hacer consultas sobre el uso del paquetes de mazos**. Para ello dirígete a [Gitter].
+- Fíjate si lo que quieres agregar ya existe o está en nuestros planes.
+- Antes de ponerte a trabajar, **crea un "issue" para consultar y discutir sobre cambios o aportes grandes que quieras hacer**. Si has encontrado un error, dirígete a la sección sobre [cómo reportar un error].
+- **Proveé vínculos** a las fuentes que sustenten el material que quieras agregar o apoyen tu posición en caso de que hayas encontrado algún error. Esto no sólo nos ayuda a verificar la veracidad del contenido sino que también es una buena forma de recopilar material útil.
+- Asegúrate que tu aporte **respete el formato ya establecido** (fuente, tamaño y color de texto, etc.). Es importante mantener la unidad visual entre todos los mazos del paquete. Si quieres proponer uno nuevo, crea un nuevo issue.
 
+## Tu primera contribución
 
+¿No estás seguro por dónde empezar? Si no tienes experiencia con Anki y/o colaborando en un proyecto de código abierto, lee primero el [manual de Anki] y luego sobre [cómo contribuir a un proyecto de Código Abierto]. Luego, cuando te sientas listo, puedes empezar creando tarjetas de oraciones ya que son las más fáciles por tener menos campos.
+
+## Antes de comenzar
 
 
 

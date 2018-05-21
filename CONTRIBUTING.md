@@ -6,11 +6,11 @@ La siguiente es una guía sobre como contribuir de forma que todos estemos coord
 
 ## Índice
 - [¿Cómo contribuir?](#cómo-contribuir)
-- [¿Qué contribuir y que no contribuir?](#qué-contribuir-y-qué-no-contribuir)
+- [¿Qué contribuir y qué no contribuir?](#qué-contribuir-y-qué-no-contribuir)
 - [Reglas básicas](#reglas-básicas)
 - [Tu primera contribución](#tu-primera-contribución)
-- [Guía de inicio](#guía-de-incio)
-- [Cómo reportar un error](#cómo-reportar-un-errror)
+- [Guía de inicio](#guía-de-inicio)
+- [Cómo reportar un error](#cómo-reportar-un-error)
 - [Cómo hacer una sugerencia](#cómo-hacer-una-sugerencia)
 - [Cómo se procesa una contribución](#cómo-se-procesa-una-contribución)
 - [Comunidad](#comunidad)

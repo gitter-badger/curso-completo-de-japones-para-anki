@@ -4,7 +4,6 @@ Esta es una colección de mazos para Anki que he venido desarrollando para ayuda
 
 ### Índice
 - [Sobre el proyecto](#sobre-el-proyecto)
-- [Bibliografía](#bibliografía)
 - [Descarga](#descarga)
 - [Actualizar](#actualizar)
 - [¿No hay una mejor forma de actualizar?](#no-hay-una-mejor-forma-de-actualizar)
@@ -13,10 +12,13 @@ Esta es una colección de mazos para Anki que he venido desarrollando para ayuda
 - [Cómo funciona](#cómo-funciona)
   - [Dependencias](#dependencias)
   - [Tipos de nota](#tipos-de-nota)
-  - [Campoos](#campos)
+  - [Campos](#campos)
   - [Audio](#audio)
   - [Etiquetas](#etiquetas)
+- [Bibliografía](#bibliografía)
+- [Otras fuentes](#otras-fuentes)
 - [Autor](#autor)
+- [Créditos](#créditos)
 - [Licencia](#licencia)
 
 ### Sobre el proyecto
@@ -30,15 +32,6 @@ En cuanto a los cursos presenciales, sucede algo similar. A pesar de que en los 
 Es por estas razones que este "curso", por así llamarlo, apunta precísamente a estos estudiantes, ya que yo mismo, al momento de escribir estas líneas, soy uno de ellos.
 
 Debido a que aún soy estudiante, preparándome para tomar el N1, no puedo garantizar que la información en los mazos no contenga errores. Este no es un material profesional, aunque lo tome con la mayor seriedad posible. Dicho esto, me he basado en una variedad de recursos distintos para asegurarme de que el contenido aquí entregado esté lo más correcto posible.
-
-### Bibliografía
-
-- 「日本語能力試験」対策日本語総まとめN1文法 de Hitoko Sasaki, Noriko Matsumoto 2010. ISBN 978-4-87217-726-8 - Adquiérelo en [Amazon Japón][Nihongo Nouryoku shiken en Amazon Japón].
-- [Tae Kim's Guide to Learning Japanese].
-- [JGram: The Japanese Grammar Database].
-- "Diccionario Japonés-Español Romanizado / ローマ字和西（日本語スペイン語）辞典" de Eduardo López Herrero (Kashibashobo). ISBN 4-7601-1148-4 C3587 - Adquiérelo en [Amazon España][Diccionario Japonés-Español Romanizado en Amazon España].
-- "Kanji para recordar I" de James W. Heisig con Marc Bernabé y Verónica Calafell 3ra edición, editorial Harder. ISBN 978-84-254-2593-6 - Adquiérelo en [Amazon España][Kanji para recordar I en Amazon España].
-- La mayoría de las oraciones, tanto las de ejemplo como las de ejercicio, pertenecen al proyecto [Tatoeba](https://tatoeba.org/spa/) (incluyendo algunas de mi propia creación) y al sitio [Jgram].
 
 ### Descarga
 
@@ -206,9 +199,25 @@ Y las de **Kanji**:
 - Kanji
 - andresangelini
 
+### Bibliografía
+
+- [「日本語能力試験」対策日本語総まとめN1文法] de Hitoko Sasaki, Noriko Matsumoto 2010. ISBN 978-4-87217-726-8.
+- [Diccionario Japonés-Español Romanizado / ローマ字和西（日本語スペイン語）辞典] de Eduardo López Herrero (Kashibashobo). ISBN 4-7601-1148-4 C3587.
+- [Kanji para recordar I] de James W. Heisig con Marc Bernabé y Verónica Calafell 3ra edición, editorial Harder. ISBN 978-84-254-2593-6.
+
+### Otras fuentes
+
+- [Tae Kim's Guide to Learning Japanese].
+- [JGram: The Japanese Grammar Database].
+
 ### Autor
 
 Andrés Angelini
+
+### Créditos
+
+- La mayoría de las oraciones, tanto las de ejemplo como las de ejercicio, pertenecen al proyecto [Tatoeba](https://tatoeba.org/spa/) (incluyendo algunas de mi propia creación) y al sitio [Jgram].
+- Si bien la gran mayoría de los cuentos nmemónicos del mazo de Kanji fueron creados por mi, algunos otros están inspirados o adoptados de los creados por los usuarios de [Kanji Koohii].
 
 ### Licencia
 
@@ -220,11 +229,11 @@ Este paquete de mazos en sí esta licenciado bajo la licencia [Creative Commons 
 
 
 
-[Nihongo Nouryoku shiken en Amazon Japón]: https://www.amazon.co.jp/%E6%97%A5%E6%9C%AC%E8%AA%9E%E7%B7%8F%E3%81%BE%E3%81%A8%E3%82%81-N1-%E6%96%87%E6%B3%95-%E3%80%8C%E6%97%A5%E6%9C%AC%E8%AA%9E%E8%83%BD%E5%8A%9B%E8%A9%A6%E9%A8%93%E3%80%8D%E5%AF%BE%E7%AD%96-%E4%BD%90%E3%80%85%E6%9C%A8/dp/4872177266/ref=sr_1_6?s=books&ie=UTF8&qid=1523885802&sr=1-6&keywords=%E3%80%8C%E6%97%A5%E6%9C%AC%E8%AA%9E%E8%83%BD%E5%8A%9B%E8%A9%A6%E9%A8%93%E3%80%8D%E5%AF%BE%E7%AD%96+%E6%97%A5%E6%9C%AC%E8%AA%9E%E7%B7%8F%E3%81%BE%E3%81%A8%E3%82%81
+[「日本語能力試験」対策日本語総まとめN1文法]: https://www.amazon.co.jp/%E6%97%A5%E6%9C%AC%E8%AA%9E%E7%B7%8F%E3%81%BE%E3%81%A8%E3%82%81-N1-%E6%96%87%E6%B3%95-%E3%80%8C%E6%97%A5%E6%9C%AC%E8%AA%9E%E8%83%BD%E5%8A%9B%E8%A9%A6%E9%A8%93%E3%80%8D%E5%AF%BE%E7%AD%96-%E4%BD%90%E3%80%85%E6%9C%A8/dp/4872177266/ref=sr_1_6?s=books&ie=UTF8&qid=1523885802&sr=1-6&keywords=%E3%80%8C%E6%97%A5%E6%9C%AC%E8%AA%9E%E8%83%BD%E5%8A%9B%E8%A9%A6%E9%A8%93%E3%80%8D%E5%AF%BE%E7%AD%96+%E6%97%A5%E6%9C%AC%E8%AA%9E%E7%B7%8F%E3%81%BE%E3%81%A8%E3%82%81 "Amazón Japón"
 [Tae Kim's Guide to Learning Japanese]: http://www.guidetojapanese.org/spanish/index.html
 [JGram: The Japanese Grammar Database]: http://jgram.org/
-[Diccionario Japonés-Español Romanizado en Amazon España]: https://www.amazon.es/Diccionario-Japon%C3%A9s-Espa%C3%B1ol-Romanizado-Eduardo-Herrera/dp/4760111484/ref=sr_1_1?ie=UTF8&qid=1523887983&sr=8-1&keywords=Diccionario+Japon%C3%A9s-Espa%C3%B1ol+Romanizado
-[Kanji para recordar I en Amazon España]: https://www.amazon.es/Kanji-para-recordar-mnemot%C3%A9cnico-aprendizaje/dp/842542593X/ref=sr_1_1?s=books&ie=UTF8&qid=1523888053&sr=1-1&keywords=Kanji+para+recordar+I
+[Diccionario Japonés-Español Romanizado / ローマ字和西（日本語スペイン語）辞典]: https://www.amazon.es/Diccionario-Japon%C3%A9s-Espa%C3%B1ol-Romanizado-Eduardo-Herrera/dp/4760111484/ref=sr_1_1?ie=UTF8&qid=1523887983&sr=8-1&keywords=Diccionario+Japon%C3%A9s-Espa%C3%B1ol+Romanizado "Amazon España"
+[Kanji para recordar I]: https://www.amazon.es/Kanji-para-recordar-mnemot%C3%A9cnico-aprendizaje/dp/842542593X/ref=sr_1_1?s=books&ie=UTF8&qid=1523888053&sr=1-1&keywords=Kanji+para+recordar+I "Amazon España"
 [Tatoeba]: https://tatoeba.org/spa/
 [Jgram]: http://jgram.org/
 [exportar paquete Anki]: https://apps.ankiweb.net/docs/manual.es.html#exportando-paquetes-de-mazos

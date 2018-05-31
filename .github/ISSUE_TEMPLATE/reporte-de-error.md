@@ -4,16 +4,16 @@ about: Crea un reporte que nos ayude a mejorar
 
 ---
 
-**Describe el error**
+**Descripción el error**
 Una explicación clara y concisa sobre el error.
 
 **Ubicación**
 Lugar donde se encuentra el error:
+- Campo:
 - Tarjeta:
 - Mazo:
-- Campo:
 
-**Lo correcto**
+**Solución**
 Una descripción clara y concisa de cómo debería ser.
 
 **Fuentes**

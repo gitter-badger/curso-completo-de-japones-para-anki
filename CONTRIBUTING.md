@@ -80,7 +80,7 @@ Listo, con esto has aprendido a hacer tus propias contribuciones al proyecto. Se
 
 ## Cómo hacer una sugerencia
 
-Si crees que se te ha ocurrido una buena idea y quieres aportarla al proyecto, contáctate a través de [Gitter][Gitter/sugerencias].
+Si crees que se te ha ocurrido una buena idea y quieres aportarla al proyecto, abre un **issue** por cada sugerencia usando la plantilla de **Sugerencia**.
 
 ## Cómo se procesa una contribución
 

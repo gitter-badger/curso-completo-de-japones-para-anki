@@ -75,15 +75,7 @@ Listo, con esto has aprendido a hacer tus propias contribuciones al proyecto. Se
 
 1. Asegúrate de que no exista ya un **issue** sobre ese mismo error. Busca incluso entre los **asuntos cerrados** también, ya que podría haber sido reportado y solucionado anteriormente.
 2. Corrobora de que realmente se un error. Si no estás seguro, ponte en contacto a través de [Gitter][Gitter/errores].
-3. Abre un **issue** por cada error indicando en el propio título el **error**, la **tarjeta** y el **mazo** al que pertenece ésta y debajo la explicación de por qué. Por ejemplo:
-  - **Título**:
-  ```
-  Falta la な en 彼の理論は妥当<な>ものとして/であるものとして広く認められている en Oraciones.
-  ```
-  - **Texto**:
-  ```
-  Según la tarjeta de definición de ものとして, la construcción con un adjetivo な es: "Adjetivo な + である/な + forma gramatical". La respuesta está correcta pero la oración que muestra con el espacio lleno no.
-  ```
+3. Abre un **issue** por cada error usando la plantilla **Reporte de error**.
 4. Ten paciencia y revisa el estatus del **issue** a menudo. Recuerda también que puedes ofrecerte para hacer la corrección tu mismo. De ser así, indícalo también en el mensaje y sigue los pasos de la [Guía de inicio](#guía-de-inicio).
 
 ## Cómo hacer una sugerencia
